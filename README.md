@@ -44,4 +44,4 @@ Python, TensorFlow, Keras, scikit-learn, NumPy, Pandas, Matplotlib, Seaborn and 
 
 ## Author
 
-Hasandi – Week 04 Deep Learning Assignment
+Hasandi Chandrakeerthi – Week 04 Deep Learning Assignment
