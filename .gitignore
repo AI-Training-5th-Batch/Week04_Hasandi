@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Dataset
+casting_data/
+data_images/
+
+# Trained models
+models/
+*.keras
+*.h5
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Environment variables
+.env
